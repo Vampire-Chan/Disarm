@@ -1,17 +1,19 @@
 # Disarm
 Ability to Disarm Peds just like GTA 4 and RDR 2 has.
 
-Description:
+### Description:
 This mod ingeniously resurrects a beloved feature from Rockstar's previous games, IV and Red Dead Redemption, and seamlessly integrates it into the world of GTA V. Users can now relive the thrill of disarming enemies by shooting weapons out of their hands, just like in the old days. Say goodbye to the frustration of Rockstar's omission, as this mod brings back the excitement of tactical combat encounters where precision and finesse matter as much as firepower.
 
 Installation is a breeze – simply place the Disarm.dll file into your "scripts" folder, ensuring you have the latest Script Hook V and .NET Script Hook installed. Once set up, prepare to immerse yourself in a gameplay experience reminiscent of the classics.
 
-About:
+### About:
 It's a testament to the passion of the modding community that this feature, inexplicably absent from GTA V, has been lovingly resurrected. Why Rockstar chose to remove such a dynamic gameplay mechanic is a mystery, but thanks to this mod, players can once again enjoy the thrill of disarming foes with pinpoint accuracy. Whether you prefer the satisfaction of shooting weapons out of hands or the finesse of using a stun gun, this mod offers versatile ways to neutralize threats while adding depth to your gameplay.
 
 ## Changelog:
-9/3/24 - Inital Release.
+9/3/24 - Inital Release. Built with SHVDN v3.
+
 11/3/24 - Added Logging and 2 more bones- UpperArm Right and Forearm Right.
+
 13/3/24 - Added INI to blacklist Ped Models from not dropping their weapons.
 
 ## Situations:
